@@ -1,9 +1,9 @@
 ---
 title: std::cout << "Hello, World!";
-date: 2026-09-21 21:00:00 +0300 # must not be in the future; +0300 summer time, +0200 winter (Europe/Athens)
-categories: [Top-Level, Sub-Level] # at most two
-tags: [lowercase, tags, here]
-description: One sentence for search results and link previews.
+date: 2026-09-21 00:00:00 +0300 # must not be in the future; +0300 summer time, +0200 winter (Europe/Athens)
+categories: [General, Random] # at most two
+tags: [random, intro]
+description: Intro post for the blog.
 math: true # LaTeX equations; delete if unused
 # pin: true # keep at top of the home page
 # image:
@@ -11,11 +11,11 @@ math: true # LaTeX equations; delete if unused
 #   alt: Cover image description
 ---
 
-Opening paragraph: what this post is about and why it matters.
+Currently a placeholder text as we're still under maintenance.
 
-## Section heading
+## A section
 
-Regular text with *italics*, **bold**, `inline code` and a [link](https://example.com).
+Regular text with *italics*, **bold**, `inline code` and a [link](https://example.com) Basically trying out the template.
 
 Inline math like $$ x_{k+1} = A x_k + B u_k $$ sits in a sentence, and display math goes on its own lines:
 
