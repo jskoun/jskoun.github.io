@@ -6,9 +6,9 @@ tags: [random, intro]
 description: Intro post for the blog.
 math: true # LaTeX equations; delete if unused
 # pin: true # keep at top of the home page
- image:
-   path: /assets/img/posts/2026-09-21-Hello-World/MCP_3D_Graphic.jpg
-   alt: MCP Character from TRON
+image:
+    path: /assets/img/posts/2026-09-21-Hello-World/MCP_3D_Graphic.jpg
+    alt: MCP Character from TRON
 ---
 
 ## What is this?
