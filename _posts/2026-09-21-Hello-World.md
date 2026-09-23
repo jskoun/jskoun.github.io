@@ -7,8 +7,8 @@ description: Intro post for the blog.
 math: true # LaTeX equations; delete if unused
 # pin: true # keep at top of the home page
 image:
-    path: /assets/img/posts/2026-09-21-Hello-World/MCP_3D_Graphic.jpg
-    alt: MCP Character from TRON
+    path: /assets/img/posts/2026-09-21-Hello-World/mdp_graphic.webp
+    alt: A Markov Decision Process (from waldoalvarez, Wikimedia Commons)
 ---
 
 ## What is this?
